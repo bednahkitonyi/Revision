@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrayAssigmentQ8/1.0.0": {
+        "runtime": {
+          "ArrayAssigmentQ8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayAssigmentQ8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

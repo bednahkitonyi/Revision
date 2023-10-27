@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfnFt67hh1Gn/1zLYhFn9QU/2keraMvkJqmJXrEKQYE3A7zxN+xDBj4okD9vOC7e5NufiFtMBUTEa/In6TAwWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-bnzimbi\\source\\repos\\ArraysassignmentQ1\\ArraysassignmentQ1\\ArraysassignmentQ1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-bnzimbi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\v-bnzimbi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\v-bnzimbi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\v-bnzimbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

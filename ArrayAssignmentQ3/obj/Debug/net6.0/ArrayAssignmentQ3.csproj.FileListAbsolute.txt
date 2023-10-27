@@ -1,0 +1,15 @@
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\bin\Debug\net6.0\ArrayAssignmentQ3.exe
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\bin\Debug\net6.0\ArrayAssignmentQ3.deps.json
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\bin\Debug\net6.0\ArrayAssignmentQ3.runtimeconfig.json
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\bin\Debug\net6.0\ArrayAssignmentQ3.dll
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\bin\Debug\net6.0\ArrayAssignmentQ3.pdb
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.csproj.AssemblyReference.cache
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.AssemblyInfoInputs.cache
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.AssemblyInfo.cs
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.csproj.CoreCompileInputs.cache
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.dll
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\refint\ArrayAssignmentQ3.dll
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.pdb
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ArrayAssignmentQ3.genruntimeconfig.cache
+C:\Users\v-bnzimbi\source\repos\ArraysassignmentQ1\ArrayAssignmentQ3\obj\Debug\net6.0\ref\ArrayAssignmentQ3.dll
